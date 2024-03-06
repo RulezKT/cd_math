@@ -1,0 +1,22 @@
+{
+  "name": "cd_math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cd_math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RulezKT/cd_math.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RulezKT/cd_math/issues"
+  },
+  "homepage": "https://github.com/RulezKT/cd_math#readme",
+  "dependencies": {
+    "cd_consts": "github:RulezKT/cd_consts"
+  }
+}
